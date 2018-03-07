@@ -11,4 +11,4 @@ spring:
     mongodb:
       port: 27017
       database: yyw
-content: admin
+content: test
